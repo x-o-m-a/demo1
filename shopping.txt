@@ -11,7 +11,7 @@ bacon
 orange juice
 grapes
 lemons
-limes
+7 limes
 lettuce
 rice
 chicken soup
