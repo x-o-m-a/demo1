@@ -14,7 +14,7 @@ lemons
 limes
 lettuce
 rice
-soup
+chicken soup
 ice cream
 sugar
 flour
